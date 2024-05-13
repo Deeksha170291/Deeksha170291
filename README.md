@@ -1,4 +1,4 @@
-### Hi there
+### Hi there, I am Deeksha Bansal.I am interested in Web development.I am currently learning HTML, CSS ,JAVASCRIPT. I have some knowlege of PYTHON ,Microsoft Excel .
 
 - 👋 Hi, I’m @Deeksha170291
 - 👀 I’m interested in ...
