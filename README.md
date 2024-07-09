@@ -3,7 +3,7 @@ I am interested in frond-end development. I am an enthusiastic & confident indiv
 work and dedication. I am proficient in Python, Html, Css & Javascript and sql.
 
 ### Programming Languages
-![Python]
+![Python] (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
 
